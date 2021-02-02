@@ -1,0 +1,12 @@
+
+board layout would look like an array going across and a second array going down.
+
+
+Create an application that checks if a completed Sudoku puzzle is “legal.” In other words, it should ensure the following rules are met:
+
+array 
+
+- Each row contains all numbers from 1 to 9 with no repeats. ->a function that returns true or false if this is met
+- Each column contains all numbers from 1 to 9 with no repeats. ->a function that returns true or false if this is met
+Further Exploration: Each of the nine 3 x 3 grids contain all numbers from 1 to 9 with no repeats.
+
