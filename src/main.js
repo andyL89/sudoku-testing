@@ -5,6 +5,7 @@ import './css/styles.css';
 
 
 $(document).ready(function() {
-
+  //let row1Array = [5,3,7]
+  //user input 
 });
-
+sudokuArray = [5,3,,,7,,,6]

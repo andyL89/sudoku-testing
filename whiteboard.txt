@@ -10,3 +10,15 @@ array
 - Each column contains all numbers from 1 to 9 with no repeats. ->a function that returns true or false if this is met
 Further Exploration: Each of the nine 3 x 3 grids contain all numbers from 1 to 9 with no repeats.
 
+Use numbers and letters to identify box locations
+
+  1 2 3 4 5 6 7 8 9 
+A
+B
+C
+D
+E
+F
+G
+H
+I
